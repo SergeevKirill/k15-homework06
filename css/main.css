@@ -1,1 +1,123 @@
 /* css */
+body {
+  background-color: #d1e4ff;
+  margin: 0;
+  font-family: sans-serif;
+  color: #252525;
+}
+
+.content {
+  width: 980px;
+  margin: auto;
+  background-color: #fff;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.content  h1, h2, h3 {
+  text-transform: uppercase;
+}
+
+.content h1 {
+  font-size: 42px;
+  margin-top: 0;
+  padding-top: 70px;
+  margin-bottom: 0;
+}
+
+.content h2 {
+  font-size: 36px;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.content h3{
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.content h4 {
+  font-size: 26px;
+  margin-top: 40px;
+  margin-bottom: 0;
+}
+
+.content h5 {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.content h6 {
+  font-size: 16px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.content p {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.content code {
+  background-color: #f0e6d6;
+}
+
+.content p a {
+  color: #2780e3;
+}
+
+.content kbd {
+  background-color: #eadcea;
+}
+
+.content samp {
+  background-color: #eadcdc;
+}
+
+.content blockquote {
+  background-color: #eadcea;
+  width: 100%;
+  margin-left: 0;
+  border-left: 4px solid #b496b4;
+}
+
+.content blockquote code, pre code {
+  background-color: inherit;
+}
+
+.content blockquote p{
+  padding: 10px 30px;
+}
+
+.content pre {
+  background-color: #f0e6d6;
+  padding: 10px 0;
+}
+
+.content dt {
+  font-weight: 800;
+  font-style: italic;
+}
+
+.content table {
+  width: 100%;
+  padding: 0;
+  border-spacing: 0;
+  margin-top: 15px;
+  padding-bottom: 65px;
+}
+
+.content td {
+  border: 1px solid #b496b4;
+  padding: 0;
+  text-align: left;
+  padding: 8px 10px;
+}
+
+.content td.zaglavie {
+  padding: 8px 0;
+  text-align: center;
+  background-color: #eadcea;
+}
