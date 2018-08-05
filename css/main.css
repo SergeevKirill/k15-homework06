@@ -103,21 +103,20 @@ body {
 
 .content table {
   width: 100%;
-  padding: 0;
   border-spacing: 0;
   margin-top: 15px;
-  padding-bottom: 65px;
   border-collapse: collapse;
 }
 
-.content td {
+.content td, .content th {
   border: 1px solid #b496b4;
   padding: 0;
   text-align: left;
   padding: 8px 10px;
 }
 
-.content td.zaglavie {
+.content th {
+  font-weight: normal;
   padding: 8px 0;
   text-align: center;
   background-color: #eadcea;
