@@ -107,6 +107,7 @@ body {
   border-spacing: 0;
   margin-top: 15px;
   padding-bottom: 65px;
+  border-collapse: collapse;
 }
 
 .content td {
